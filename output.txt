@@ -1,1 +1,2 @@
-Operating Systems Lab Program
+Hello from redirected standard output!
+This message is stored in output.txt
